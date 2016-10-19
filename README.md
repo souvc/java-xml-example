@@ -30,4 +30,12 @@
 * dom4j是一个简单的开源库，用于处理XML、 XPath和XSLT，它基于Java平台，使用Java的集合框架，全面集成了DOM，SAX和JAXP。
 
 
+xml-dom4j-sample
+
+* 1.完成多条Emp信息的XML描述
+* 2.读取XML文档解析Emp信息
+* 3.将Emp（存放在List中）对象转换为XML文档
+* 4.在XML文档中查找指定特征的Emp信息
+
+
 

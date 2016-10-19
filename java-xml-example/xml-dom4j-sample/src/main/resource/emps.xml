@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list><emp id="1"><name>张三</name><age>33</age><gender>男</gender><salary>9000.0</salary></emp><emp id="2"><name>李四</name><age>26</age><gender>男</gender><salary>5000.0</salary></emp><emp id="3"><name>王五</name><age>48</age><gender>男</gender><salary>34000.0</salary></emp></list>
